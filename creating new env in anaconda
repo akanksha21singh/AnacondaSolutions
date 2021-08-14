@@ -1,3 +1,4 @@
+Open Anaconda powershell and execute the following:
 1. pip install conda(in case you dont have!)
 2. conda create -n my_env python=3
 3. To activate this environment, use
