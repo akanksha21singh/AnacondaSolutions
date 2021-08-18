@@ -1,0 +1,3 @@
+updating ipykernel did it for me. 
+
+run:  pip install --upgrade ipykernel
